@@ -14,10 +14,10 @@ https://github.com/JosephSuvak/Password-Generator (Links to an external site.)
 
 **Screenshot (Snagit Panoramic Picture not to proper scale - due to browser limitations):**
 
-![Special Character Near Max](/assets/images/Special-Characters-Near-Max.jpg?raw=true "Special-Character-Code-Large")
-![Special Character Near Min](/assets/images/Special-Characters-Near-Min.jpg?raw=true "Special-Character-Code-Min")
-![Regular Character Near Max](/assets/images/Regular-Characters-Near-Max.jpg?raw=true "Regular-Character-Code-Large")
-![Regular Character Near Min](/assets/images/Regular-Characters-Near-Min.jpg?raw=true "Regular-Character-Code-Min")
+![Special-Character-Near-Max](/assets/images/Special-Characters-Near-Max.jpg?raw=true "Special-Character-Code-Large")
+![Special-Character-AT-Min](/assets/images/Special-Characters-Near-Min.jpg?raw=true "Special-Character-Code-Min")
+![Regular-Character-Near-Max](/assets/images/Regular-Characters-Near-Max.jpg?raw=true "Regular-Character-Code-Large")
+![Regular-Character-AT-Min](/assets/images/Regular-Characters-Near-Min.jpg?raw=true "Regular-Character-Code-Min")
 
 
 
