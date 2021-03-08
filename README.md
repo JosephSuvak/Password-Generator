@@ -14,10 +14,17 @@ https://github.com/JosephSuvak/Password-Generator (Links to an external site.)
 
 **Screenshot (Snagit Panoramic Picture not to proper scale - due to browser limitations):**
 
-![Special-Character-Near-Max](/assets/images/Special-Characters-Near-Max.jpg?raw=true "Special-Character-Code-Large")
-![Special-Character-AT-Min](/assets/images/Special-Characters-Near-Min.jpg?raw=true "Special-Character-Code-Min")
-![Regular-Character-Near-Max](/assets/images/Regular-Characters-Near-Max.jpg?raw=true "Regular-Character-Code-Large")
-![Regular-Character-AT-Min](/assets/images/Regular-Characters-Near-Min.jpg?raw=true "Regular-Character-Code-Min")
+### Near Max - Special
+![Special-Character-Near-Max](https://raw.githubusercontent.com/JosephSuvak/Password-Generator/main/images/Special-Characters-Near-Max.jpg"Special-Character-Code-Large")
+
+### At Min Speical
+![Special-Character-AT-Min](https://raw.githubusercontent.com/JosephSuvak/Password-Generator/main/images/Special-Characters-Near-Min.jpg "Special-Character-Code-Min")
+
+### At Min Regular
+![Regular-Character-Near-Max](https://raw.githubusercontent.com/JosephSuvak/Password-Generator/main/images/Regular-Characters-Near-Max.jpg "Regular-Character-Code-Large")
+
+### At Min Regular
+![Regular-Character-AT-Min](https://raw.githubusercontent.com/JosephSuvak/Password-Generator/main/images/Regular-Characters-Near-Min.jpg "Regular-Character-Code-Min")
 
 
 
