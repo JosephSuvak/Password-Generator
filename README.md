@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator New Code
 
 https://josephsuvak.github.io/Password-Generator/ (Links to an external site.)
 
